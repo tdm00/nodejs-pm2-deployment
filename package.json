@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tdm00/nodejs-pm2-deployment/issues"
   },
-  "homepage": "https://github.com/tdm00/nodejs-pm2-deployment#readme"
+  "homepage": "https://github.com/tdm00/nodejs-pm2-deployment#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
